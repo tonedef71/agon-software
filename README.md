@@ -49,10 +49,11 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Games
 - [2048](https://github.com/sijnstra/agon-projects/tree/main/2048) - The classic game 2028 ported from CP/M.
 - [3D Maze](https://github.com/richardturnnidge/3dmaze) - 3d maze game engine.
+- [3D Tic-Tac-Toe](https://github.com/tonedef71/agon-3dttt) - An Agon Light adaptation of the classic three-in-a-row strategy game of X's & O's, as if played inside of a 3 x 3 cube. Includes solo-player, multi-player, and spectator options, as well as an 'avoidance' play variation. ([Preview on GitHub](https://github.com/tonedef71/agon-3dttt?tab=readme-ov-file#demo-playthrough))
 - [AgCadia](https://peteshobby.itch.io/agcadia) - A game for the Agon Light based on the ZX Spectrum game Arcadia.
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
-- [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light.
+- [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light. 
 - [Akalabeth](https://github.com/sijnstra/Akalabeth) - Akalabeth: World of Doom.
 - [Amines](https://github.com/sijnstra/agdev-projects) - Amines is Minefield for Agon Light.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
